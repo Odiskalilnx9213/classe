@@ -1,0 +1,14 @@
+C:\Users\amsde\Desktop\cla\classe\classe\bin\Debug\net8.0\classe.exe
+C:\Users\amsde\Desktop\cla\classe\classe\bin\Debug\net8.0\classe.deps.json
+C:\Users\amsde\Desktop\cla\classe\classe\bin\Debug\net8.0\classe.runtimeconfig.json
+C:\Users\amsde\Desktop\cla\classe\classe\bin\Debug\net8.0\classe.dll
+C:\Users\amsde\Desktop\cla\classe\classe\bin\Debug\net8.0\classe.pdb
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\classe.AssemblyInfoInputs.cache
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\classe.AssemblyInfo.cs
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\classe.csproj.CoreCompileInputs.cache
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\classe.dll
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\refint\classe.dll
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\classe.pdb
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\classe.genruntimeconfig.cache
+C:\Users\amsde\Desktop\cla\classe\classe\obj\Debug\net8.0\ref\classe.dll
